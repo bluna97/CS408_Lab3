@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crypto-Logic</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomeMessage">Try to guess the secret word, one letter at a time.</string>
+    <string name="guessButtonText">Guess</string>
+    <string name="inputHint">Enter a letter here</string>
+</resources>
